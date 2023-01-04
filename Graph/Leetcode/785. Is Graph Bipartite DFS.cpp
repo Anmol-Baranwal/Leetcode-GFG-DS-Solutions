@@ -1,5 +1,5 @@
 /*
-    Problem Link: https://leetcode.com/problems/course-schedule-ii
+    Problem Link: https://leetcode.com/problems/is-graph-bipartite
     
     Time: 58 ms (Beats 40.8%), Space: 13.4 MB (Beats 95.29%)
 */
