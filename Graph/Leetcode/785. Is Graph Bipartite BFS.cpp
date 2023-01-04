@@ -1,5 +1,5 @@
 /*
-    Problem Link: https://leetcode.com/problems/is-graph-bipartite
+    Problem Link: https://leetcode.com/problems/is-graph-bipartite/
     
     Time: 81 ms (Beats 7.17%), Space: 13.7 MB (Beats 28.53%)
 */
