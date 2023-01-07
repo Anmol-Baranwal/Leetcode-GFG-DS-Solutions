@@ -22,4 +22,11 @@ SNo | Name | Difficulty | Question | Solution |
 18 | Eventual Safe States | Medium | [view](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1) | [view](Eventual%20Safe%20States.cpp)
 19 | Course Schedule | Medium | [view](https://practice.geeksforgeeks.org/problems/course-schedule/1) | [view](Course%20Schedule.cpp)
 20 | Alien Dictionary | Hard | [view](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | [view](Alien%20Dictionary.cpp)
+21 | Shortest Distance in a Binary Maze | Medium | [view](https://practice.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1) | [view](Shortest%20Distance%20in%20a%20Binary%20Maze.cpp)
+22 | Path With Minimum Effort | Medium | [view](https://practice.geeksforgeeks.org/problems/path-with-minimum-effort/1) | [view](Path%20With%20Minimum%20Effort.cpp)
+23 | Number of Ways to Arrive at Destination | Medium | [view](https://practice.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1) | [view](Number%20of%20Ways%20to%20Arrive%20at%20Destination.cpp)
+24 | Minimum Multiplications to reach End | Medium | [view](https://practice.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1) | [view](Minimum%20Multiplications%20to%20reach%20End.cpp)
+25 | Implementing Dijkstra Algorithm using set | Medium | [view](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](Implementing%20Dijkstra%20Algorithm%20using%20set.cpp)
+26 | Implementing Dijkstra Algorithm using priority queue | Medium | [view](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](Implementing%20Dijkstra%20Algorithm%20using%20priority%20queue.cpp)
+27 | Cheapest Flights Within K Stops | Medium | [view](https://practice.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1) | [view](Cheapest%20Flights%20Within%20K%20Stops.cpp)
 
