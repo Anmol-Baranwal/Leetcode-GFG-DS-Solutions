@@ -16,3 +16,10 @@ SNo | Name | Difficulty | Question | Solution |
 12 | Number of Enclaves | Medium | [view](https://practice.geeksforgeeks.org/problems/number-of-enclaves/1) | [view](Number%20Of%20Enclaves.cpp)
 13 | Number of Provinces | Medium | [view](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) | [view](Number%20of%20Provinces.cpp)
 14 | Replace O's with X's | Medium | [view](https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1) | [view](Replace%20O's%20with%20X's.cpp)
+15 | Word Ladder I | Hard | [view](https://practice.geeksforgeeks.org/problems/word-ladder/1) | [view](Word%20Ladder%20I.cpp)
+16 | Word Ladder II | Hard | [view](https://practice.geeksforgeeks.org/problems/word-ladder-ii/1) | [view](Word%20Ladder%20II.cpp)
+17 | Topological sort | Medium | [view](https://practice.geeksforgeeks.org/problems/topological-sort/1) | [view](Topological%20sort.cpp)
+18 | Eventual Safe States | Medium | [view](https://practice.geeksforgeeks.org/problems/eventual-safe-states/1) | [view](Eventual%20Safe%20States.cpp)
+19 | Course Schedule | Medium | [view](https://practice.geeksforgeeks.org/problems/course-schedule/1) | [view](Course%20Schedule.cpp)
+20 | Alien Dictionary | Hard | [view](https://practice.geeksforgeeks.org/problems/alien-dictionary/1) | [view](Alien%20Dictionary.cpp)
+

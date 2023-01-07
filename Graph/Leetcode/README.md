@@ -18,4 +18,6 @@ SNo | Name | Difficulty | Question | Solution |
 14 | Is Graph Bipartite DFS | Medium | [view](https://leetcode.com/problems/is-graph-bipartite) | [view](785.%20Is%20Graph%20Bipartite%20DFS.cpp)
 15 | Rotting Oranges | Medium | [view](https://leetcode.com/problems/rotting-oranges/) | [view](994.%20Rotting%20Oranges.cpp)
 16 | Cheapest Flights Within K Stops | Medium | [view](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [view](787.%20Cheapest%20Flights%20Within%20K%20Stops.cpp)
-17 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [view](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [view](1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)
+17 | Network Delay Time using Bellman Ford | Medium | [view](https://leetcode.com/problems/network-delay-time/description/) | [view](743.%20Network%20Delay%20Time%20using%20Bellman%20Ford.cpp)
+18 | Network Delay Time using Dijkstra | Medium | [view](https://leetcode.com/problems/network-delay-time/description/) | [view](743.%20Network%20Delay%20Time%20using%20Dijkstra.cpp)
+19 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [view](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [view](1334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)
