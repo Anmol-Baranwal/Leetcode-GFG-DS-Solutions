@@ -29,4 +29,7 @@ SNo | Name | Difficulty | Question | Solution |
 25 | Implementing Dijkstra Algorithm using set | Medium | [view](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](Implementing%20Dijkstra%20Algorithm%20using%20set.cpp)
 26 | Implementing Dijkstra Algorithm using priority queue | Medium | [view](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1) | [view](Implementing%20Dijkstra%20Algorithm%20using%20priority%20queue.cpp)
 27 | Cheapest Flights Within K Stops | Medium | [view](https://practice.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1) | [view](Cheapest%20Flights%20Within%20K%20Stops.cpp)
-
+28 | Floyd Warshall | Medium | [view](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [view](Floyd%20Warshall.cpp)
+29 | Minimum Spanning Tree | Medium | [view](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [view](Minimum%20Spanning%20Tree.cpp)
+30 | Distance from the Source (Bellman-Ford Algorithm) | Medium | [view](https://practice.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [view](Distance%20from%20the%20Source%20(Bellman-Ford%20Algorithm).cpp)
+31 | City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/0) | [view](City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)
