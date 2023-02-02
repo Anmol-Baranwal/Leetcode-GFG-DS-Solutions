@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 // -----Approach 1: using adjacent profit ------------------------------------------------------------
 
+=======
+>>>>>>> 0c9733668233a72509dc4e26a1cb0da61f049b4b
 /*
     Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
     
@@ -19,6 +22,7 @@ public:
     }
 };
 
+<<<<<<< HEAD
 // -----Approach 2: general logic ------------------------------------------------------------
 
 /*
@@ -51,3 +55,32 @@ public:
         return totalProfit;
     }
 };
+=======
+// ======================== ANOTHER APPROACH ============================
+// Less Efficient Solution
+
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int n=prices.size();
+//         int minPrice=prices[0];
+//         int mxProfit=0;
+//         int totalProfit=0;
+//         for(int i=0;i<n;i++){
+//             minPrice= min(minPrice, prices[i]);
+//             mxProfit= max(mxProfit, prices[i]-minPrice);
+//             if(i!=n-1 && prices[i+1]<prices[i] && mxProfit>0){
+//                 totalProfit+=mxProfit;
+//                 mxProfit=0;
+//                 minPrice=INT_MAX;
+//             }
+//             else if(i==n-1){
+//                 totalProfit+=mxProfit;
+//             }
+            
+//             // testcases: [1,2,3,4,5] , [2,1,4,5,2] , [1,2,1,2,7,5,7] , [1,2]
+//         }
+//         return totalProfit;
+//     }
+// };
+>>>>>>> 0c9733668233a72509dc4e26a1cb0da61f049b4b
