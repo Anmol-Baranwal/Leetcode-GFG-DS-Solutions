@@ -1,5 +1,5 @@
 /*
-    Problem Link: https://leetcode.com/problems/next-permutation/
+    Problem Link: https://leetcode.com/problems/find-the-duplicate-number/
     
     Time: 4 ms (Beats 69.69%), Space: 12.1 MB (Beats 75.20%)
 */
