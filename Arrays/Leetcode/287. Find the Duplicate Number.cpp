@@ -1,5 +1,5 @@
 /*
-    Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+    Problem Link: https://leetcode.com/problems/find-the-duplicate-number/
     
     Time: 311 ms (Beats 24.89%), Space: 61.1 MB (Beats 99.62%)
 */
