@@ -26,3 +26,6 @@ SNo | Name | Difficulty | Question | Solution |
 22 | Set Mismatch | Easy | [view](https://leetcode.com/problems/set-mismatch/) | [view](645.%20Set%20Mismatch.cpp)
 23 | Set Matrix Zeroes | Medium | [view](https://leetcode.com/problems/set-matrix-zeroes/) | [view](73.%20Set%20Matrix%20Zeroes.cpp)
 24 | Palindrome Number | Easy | [view](https://leetcode.com/problems/palindrome-number/) | [view](9.%20Palindrome%20Number.cpp)
+25 | Ugly Number | Easy | [view](https://leetcode.com/problems/ugly-number/) | [view](263.%20Ugly%20Number.cpp)
+26 | Ugly Number II | Medium | [view](https://leetcode.com/problems/ugly-number-ii/) | [view](264.%20Ugly%20Number%20II.cpp)
+
