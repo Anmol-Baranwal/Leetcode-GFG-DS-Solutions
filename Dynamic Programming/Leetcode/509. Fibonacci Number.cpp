@@ -1,7 +1,7 @@
 // -----Approach 1: ------------------------------------------------------------
 
 /*
-    Problem Link: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+    Problem Link: https://leetcode.com/problems/fibonacci-number/
     
     Time: 0 ms (Beats 100%), Space: 5.8 MB (Beats 93.76%)
 */
@@ -25,7 +25,7 @@ public:
 // -----Approach 2: ------------------------------------------------------------
 
 /*
-    Problem Link: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+    Problem Link: https://leetcode.com/problems/fibonacci-number/
     
     Time: 3 ms (Beats 69.77%), Space: 6.1 MB (Beats 21.41%)
 */
