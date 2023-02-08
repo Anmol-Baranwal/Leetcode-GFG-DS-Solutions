@@ -24,3 +24,4 @@ SNo | Name | Difficulty | Question | Solution |
 20 | Most Stones Removed with Same Row or Column | Medium | [view](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [view](947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp)
 21 | Path With Minimum Effort | Medium | [view](https://leetcode.com/problems/path-with-minimum-effort/) | [view](1631.%20Path%20With%20Minimum%20Effort.cpp)
 22 | Shortest Path in Binary Matrix | Medium | [view](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [view](1091.%20Shortest%20Path%20in%20Binary%20Matrix.cpp)
+23 | Max Area of Island | Medium | [view](https://leetcode.com/problems/max-area-of-island/) | [view](695.%20Max%20Area%20of%20Island.cpp)
