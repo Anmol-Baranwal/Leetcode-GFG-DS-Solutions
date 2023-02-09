@@ -1,7 +1,7 @@
 // -----Approach: Soace optimisation ------------------------------------------------------------
 
 /*
-    Problem Link: https://leetcode.com/problems/fibonacci-number/
+    Problem Link: https://leetcode.com/problems/house-robber-ii/
     
     Time: 5 ms (Beats 26.14%), Space: 7.9 MB (Beats 67.60%)
 */
