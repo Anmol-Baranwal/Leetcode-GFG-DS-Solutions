@@ -102,7 +102,8 @@ SNo | Name | Difficulty | Question | Solution |
 7 | Unique Paths II | Medium | [view](https://leetcode.com/problems/unique-paths-ii/) | [view](63.%20Unique%20Paths%20II.cpp)
 8 | Minimum Path Sum | Medium | [view](https://leetcode.com/problems/minimum-path-sum/) | [view](64.%20Minimum%20Path%20Sum.cpp)
 9 | Minimum Falling Path Sum | Medium | [view](https://leetcode.com/problems/minimum-falling-path-sum/) | [view](931.%20Minimum%20Falling%20Path%20Sum.cpp)
-
+10 | Triangle | Medium | [view](https://leetcode.com/problems/triangle/) | [view](120.%20Triangle.cpp)
+11 | Cherry Pickup II | Hard | [view](https://leetcode.com/problems/cherry-pickup-ii/) | [view](1463.%20Cherry%20Pickup%20II.cpp)
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
