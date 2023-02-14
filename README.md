@@ -15,7 +15,6 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/210561050-0231c15b-a40d-49e4-b83a-de7f17b1811d.svg" width="30"/> Leetcode Questions <img src="https://user-images.githubusercontent.com/74038190/210561050-0231c15b-a40d-49e4-b83a-de7f17b1811d.svg" width="30"/>
 
-<br>
 
 ## [Arrays](Arrays/Leetcode) [🔝](#-my-leetcode--geeksforgeeks-solutions-)
  
@@ -110,9 +109,8 @@ SNo | Name | Difficulty | Question | Solution |
 <!--- -- GFG List of Questions ----------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# <img src="https://user-images.githubusercontent.com/74038190/210559465-d7849130-6d71-432f-97ee-e209c346e500.svg" width="40"/> Leetcode Questions <img src="https://user-images.githubusercontent.com/74038190/210559465-d7849130-6d71-432f-97ee-e209c346e500.svg" width="40"/>
+# <img src="https://user-images.githubusercontent.com/74038190/210559465-d7849130-6d71-432f-97ee-e209c346e500.svg" width="40"/> Geeksforgeeks Questions <img src="https://user-images.githubusercontent.com/74038190/210559465-d7849130-6d71-432f-97ee-e209c346e500.svg" width="40"/>
 
-<br>
 
 ## [Graph](Graph/Geeksforgeeks) [🔝](#-my-leetcode--geeksforgeeks-solutions-)
 
@@ -157,6 +155,15 @@ SNo | Name | Difficulty | Question | Solution |
 37 | Number of Provinces using Disjoint Set | Medium | [view](https://practice.geeksforgeeks.org/problems/number-of-provinces/1) | [view](Number%20of%20Provinces%20using%20Disjoint%20Set.cpp)
 38 | Minimum Spanning Tree using Kruskal Algorithm | Medium | [view](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [view](Minimum%20Spanning%20Tree%20using%20Kruskal%20Algorithm.cpp)
 39 | City With the Smallest Number of Neighbors at a Threshold Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/0) | [view](City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp)
+
+<br>
+
+## [Dynamic Programming](Dynamic%20Programming/Geeksforgeeks) [🔝](#-my-leetcode--geeksforgeeks-solutions-)
+
+SNo | Name | Difficulty | Question | Solution |
+----|:-----|------------|----------|----------|
+1 | Subset Sum Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [view](Subset%20Sum%20Problem.cpp)
+2 | Perfect Sum Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | [view](Perfect%20Sum%20Problem.cpp)
 
 <br>
 
