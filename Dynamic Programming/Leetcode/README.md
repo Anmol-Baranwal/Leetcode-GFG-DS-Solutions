@@ -13,3 +13,5 @@ SNo | Name | Difficulty | Question | Solution |
 9 | Minimum Falling Path Sum | Medium | [view](https://leetcode.com/problems/minimum-falling-path-sum/) | [view](931.%20Minimum%20Falling%20Path%20Sum.cpp)
 10 | Triangle | Medium | [view](https://leetcode.com/problems/triangle/) | [view](120.%20Triangle.cpp)
 11 | Cherry Pickup II | Hard | [view](https://leetcode.com/problems/cherry-pickup-ii/) | [view](1463.%20Cherry%20Pickup%20II.cpp)
+12 | Target Sum | Medium | [view](https://leetcode.com/problems/target-sum/) | [view](494.%20Target%20Sum.cpp)
+13 | Partition Equal Subset Sum | Medium | [view](https://leetcode.com/problems/partition-equal-subset-sum/) | [view](416.%20Partition%20Equal%20Subset%20Sum.cpp)
