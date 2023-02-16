@@ -15,3 +15,5 @@ SNo | Name | Difficulty | Question | Solution |
 11 | Cherry Pickup II | Hard | [view](https://leetcode.com/problems/cherry-pickup-ii/) | [view](1463.%20Cherry%20Pickup%20II.cpp)
 12 | Target Sum | Medium | [view](https://leetcode.com/problems/target-sum/) | [view](494.%20Target%20Sum.cpp)
 13 | Partition Equal Subset Sum | Medium | [view](https://leetcode.com/problems/partition-equal-subset-sum/) | [view](416.%20Partition%20Equal%20Subset%20Sum.cpp)
+14 | Coin Change | Medium | [view](https://leetcode.com/problems/coin-change/) | [view](416.%20Partition%20Equal%20Subset%20Sum.cpp)
+15 | Coin Change II | Medium | [view](https://leetcode.com/problems/coin-change-ii/) | [view](518.%20Coin%20Change%20II.cpp)
