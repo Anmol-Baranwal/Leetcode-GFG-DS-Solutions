@@ -174,6 +174,16 @@ SNo | Name | Difficulty | Question | Solution |
 2 | Perfect Sum Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | [view](Dynamic%20Programming/Geeksforgeeks/Perfect%20Sum%20Problem.cpp)
 3 | 0 - 1 Knapsack Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [view](Dynamic%20Programming/Geeksforgeeks/0%20-%201%20Knapsack%20Problem.cpp)
 4 | Knapsack with Duplicate Items | Easy | [view](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [view](Dynamic%20Programming/Geeksforgeeks/Knapsack%20with%20Duplicate%20Items.cpp)
+5 | Rod Cutting | Medium | [view](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1) | [view](Dynamic%20Programming/Geeksforgeeks/Rod%20Cutting.cpp)
+6 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Common%20Subsequence.cpp)
+
+<br>
+
+## [Strings](Strings/Geeksforgeeks) [🔝](#-my-leetcode--geeksforgeeks-solutions-)
+
+SNo | Name | Difficulty | Question | Solution |
+----|:-----|------------|----------|----------|
+1 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Strings/Geeksforgeeks/Longest%20Common%20Subsequence.cpp)
 
 <br>
 

@@ -6,3 +6,5 @@ SNo | Name | Difficulty | Question | Solution |
 2 | Perfect Sum Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | [view](Perfect%20Sum%20Problem.cpp)
 3 | 0 - 1 Knapsack Problem | Medium | [view](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [view](0%20-%201%20Knapsack%20Problem.cpp)
 4 | Knapsack with Duplicate Items | Easy | [view](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [view](Knapsack%20with%20Duplicate%20Items.cpp)
+5 | Rod Cutting | Medium | [view](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1) | [view](Rod%20Cutting.cpp)
+6 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Longest%20Common%20Subsequence.cpp)
