@@ -17,3 +17,5 @@ SNo | Name | Difficulty | Question | Solution |
 13 | Partition Equal Subset Sum | Medium | [view](https://leetcode.com/problems/partition-equal-subset-sum/) | [view](416.%20Partition%20Equal%20Subset%20Sum.cpp)
 14 | Coin Change | Medium | [view](https://leetcode.com/problems/coin-change/) | [view](416.%20Partition%20Equal%20Subset%20Sum.cpp)
 15 | Coin Change II | Medium | [view](https://leetcode.com/problems/coin-change-ii/) | [view](518.%20Coin%20Change%20II.cpp)
+16 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](1143.%20Longest%20Common%20Subsequence.cpp)
+17 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](516.%20Longest%20Palindromic%20Subsequence.cpp)

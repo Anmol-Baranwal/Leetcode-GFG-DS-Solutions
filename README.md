@@ -55,6 +55,8 @@ SNo | Name | Difficulty | Question | Solution |
 ----|:-----|------------|----------|----------|
 1 | Integer to Roman | Medium | [view](https://leetcode.com/problems/integer-to-roman/) | [view](Strings/Leetcode/12.%20Integer%20to%20Roman.cpp)
 2 | Roman to Integer | Easy | [view](https://leetcode.com/problems/roman-to-integer/) | [view](Strings/Leetcode/13.%20Roman%20to%20Integer.cpp)
+3 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](Strings/Leetcode/1143.%20Longest%20Common%20Subsequence.cpp)
+4 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Strings/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
 
 <br>
 
@@ -107,6 +109,8 @@ SNo | Name | Difficulty | Question | Solution |
 13 | Partition Equal Subset Sum | Medium | [view](https://leetcode.com/problems/partition-equal-subset-sum/) | [view](Dynamic%20Programming/Leetcode/416.%20Partition%20Equal%20Subset%20Sum.cpp)
 14 | Coin Change | Medium | [view](https://leetcode.com/problems/coin-change/) | [view](Dynamic%20Programming/Leetcode/416.%20Partition%20Equal%20Subset%20Sum.cpp)
 15 | Coin Change II | Medium | [view](https://leetcode.com/problems/coin-change-ii/) | [view](Dynamic%20Programming/Leetcode/518.%20Coin%20Change%20II.cpp)
+16 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](Dynamic%20Programming/Leetcode/1143.%20Longest%20Common%20Subsequence.cpp)
+17 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Dynamic%20Programming/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
