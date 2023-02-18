@@ -57,6 +57,7 @@ SNo | Name | Difficulty | Question | Solution |
 2 | Roman to Integer | Easy | [view](https://leetcode.com/problems/roman-to-integer/) | [view](Strings/Leetcode/13.%20Roman%20to%20Integer.cpp)
 3 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](Strings/Leetcode/1143.%20Longest%20Common%20Subsequence.cpp)
 4 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Strings/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
+5 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](Strings/Leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
 
 <br>
 
@@ -111,6 +112,7 @@ SNo | Name | Difficulty | Question | Solution |
 15 | Coin Change II | Medium | [view](https://leetcode.com/problems/coin-change-ii/) | [view](Dynamic%20Programming/Leetcode/518.%20Coin%20Change%20II.cpp)
 16 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](Dynamic%20Programming/Leetcode/1143.%20Longest%20Common%20Subsequence.cpp)
 17 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Dynamic%20Programming/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
+18 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](Dynamic%20Programming/Leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -176,6 +178,8 @@ SNo | Name | Difficulty | Question | Solution |
 4 | Knapsack with Duplicate Items | Easy | [view](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [view](Dynamic%20Programming/Geeksforgeeks/Knapsack%20with%20Duplicate%20Items.cpp)
 5 | Rod Cutting | Medium | [view](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1) | [view](Dynamic%20Programming/Geeksforgeeks/Rod%20Cutting.cpp)
 6 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Common%20Subsequence.cpp)
+7 | Longest Common Substring | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Common%20Substring.cpp)
+8 | Longest Palindromic Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Palindromic%20Subsequence.cpp)
 
 <br>
 
@@ -184,6 +188,8 @@ SNo | Name | Difficulty | Question | Solution |
 SNo | Name | Difficulty | Question | Solution |
 ----|:-----|------------|----------|----------|
 1 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Strings/Geeksforgeeks/Longest%20Common%20Subsequence.cpp)
+2 | Longest Common Substring | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1) | [view](Strings/Geeksforgeeks/Longest%20Common%20Substring.cpp)
+3 | Longest Palindromic Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | [view](Strings/Geeksforgeeks/Longest%20Palindromic%20Subsequence.cpp)
 
 <br>
 
