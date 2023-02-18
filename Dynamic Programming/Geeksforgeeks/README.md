@@ -8,3 +8,5 @@ SNo | Name | Difficulty | Question | Solution |
 4 | Knapsack with Duplicate Items | Easy | [view](https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [view](Knapsack%20with%20Duplicate%20Items.cpp)
 5 | Rod Cutting | Medium | [view](https://practice.geeksforgeeks.org/problems/rod-cutting0840/1) | [view](Rod%20Cutting.cpp)
 6 | Longest Common Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1) | [view](Longest%20Common%20Subsequence.cpp)
+7 | Longest Common Substring | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1) | [view](Longest%20Common%20Substring.cpp)
+7 | Longest Palindromic Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | [view](Longest%20Palindromic%20Subsequence.cpp)
