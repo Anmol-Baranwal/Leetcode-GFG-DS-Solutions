@@ -19,3 +19,4 @@ SNo | Name | Difficulty | Question | Solution |
 15 | Coin Change II | Medium | [view](https://leetcode.com/problems/coin-change-ii/) | [view](518.%20Coin%20Change%20II.cpp)
 16 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](1143.%20Longest%20Common%20Subsequence.cpp)
 17 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](516.%20Longest%20Palindromic%20Subsequence.cpp)
+18 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
