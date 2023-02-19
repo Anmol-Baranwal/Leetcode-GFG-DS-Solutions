@@ -54,7 +54,7 @@ public:
     }
 };
 
-// -----Approach 2: Space Optimization (Two arrays) ----------------------------------------------------
+// -----Approach 3: Space Optimization (Two arrays) ----------------------------------------------------
 
 class Solution{
 public:
@@ -82,7 +82,7 @@ public:
     }
 };
 
-// -----Approach 2: Space Optimization (Single array) ----------------------------------------------------
+// -----Approach 3: Space Optimization (Single array) ----------------------------------------------------
 
 // User function Template for C++
 
