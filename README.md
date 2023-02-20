@@ -58,7 +58,9 @@ SNo | Name | Difficulty | Question | Solution |
 3 | Longest Common Subsequence | Medium | [view](https://leetcode.com/problems/longest-common-subsequence/) | [view](Strings/Leetcode/1143.%20Longest%20Common%20Subsequence.cpp)
 4 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Strings/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
 5 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](Strings/Leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
-6 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](1092.%20Shortest%20Common%20Supersequence.cpp)
+6 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](Strings/Leetcode/1092.%20Shortest%20Common%20Supersequence.cpp)
+7 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](Strings/Leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
+21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Strings/Leetcode/72.%20Edit%20Distance.cpp)
 
 <br>
 
@@ -115,6 +117,8 @@ SNo | Name | Difficulty | Question | Solution |
 17 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](Dynamic%20Programming/Leetcode/516.%20Longest%20Palindromic%20Subsequence.cpp)
 18 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](Dynamic%20Programming/Leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
 19 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](Dynamic%20Programming/Leetcode/1092.%20Shortest%20Common%20Supersequence.cpp)
+20 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](Dynamic%20Programming/Leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
+21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Dynamic%20Programming/Leetcode/72.%20Edit%20Distance.cpp)
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -184,6 +188,7 @@ SNo | Name | Difficulty | Question | Solution |
 8 | Longest Palindromic Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Palindromic%20Subsequence.cpp)
 9 | Shortest Common Supersequence | Medium | [view](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | [view](Dynamic%20Programming/Geeksforgeeks/Shortest%20Common%20Supersequence.cpp)
 10 | Form a palindrome | Medium | [view](Dynamic%20Programming/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
+11 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Dynamic%20Programming/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 
 <br>
 
@@ -196,6 +201,7 @@ SNo | Name | Difficulty | Question | Solution |
 3 | Longest Palindromic Subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1) | [view](Strings/Geeksforgeeks/Longest%20Palindromic%20Subsequence.cpp)
 4 | Shortest Common Supersequence | Medium | [view](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | [view](Strings/Geeksforgeeks/Shortest%20Common%20Supersequence.cpp)
 5 | Form a palindrome | Medium | [view](Strings/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
+6 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Strings/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 
 <br>
 
