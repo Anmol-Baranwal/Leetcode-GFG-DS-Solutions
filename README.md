@@ -9,6 +9,26 @@
 <br><br>
 
 
+# [Menu](#menu)
+- [Welcome](#welcome)
+
+   - [Leetcode](#-leetcode-questions-)
+      - [Arrays](#arrays-)
+      - [Strings](#strings-)
+      - [Graph](#graph-)
+      - [Dynamic Programming](#dynamic-programming-)
+      
+   - [Geeksforgeeks](#-geeksforgeeks-questions-)
+      - [Graph](#graph--1)
+      - [Dynamic Programming](#dynamic-programming--1)
+      - [Strings](#strings--1)
+      
+- [Thanks for Visiting](#-thanks-for-visiting)
+
+<br>
+
+---
+
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Leetcode List of Questions ------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
