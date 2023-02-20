@@ -8,3 +8,5 @@ SNo | Name | Difficulty | Question | Solution |
 4 | Longest Palindromic Subsequence | Medium | [view](https://leetcode.com/problems/longest-palindromic-subsequence/) | [view](516.%20Longest%20Palindromic%20Subsequence.cpp)
 5 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
 6 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](1092.%20Shortest%20Common%20Supersequence.cpp)
+7 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
+8 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](72.%20Edit%20Distance.cpp)
