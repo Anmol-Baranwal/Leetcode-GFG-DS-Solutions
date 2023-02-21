@@ -10,3 +10,4 @@ SNo | Name | Difficulty | Question | Solution |
 6 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](1092.%20Shortest%20Common%20Supersequence.cpp)
 7 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
 8 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](72.%20Edit%20Distance.cpp)
+9 | Wildcard Matching | Hard | [view](https://leetcode.com/problems/wildcard-matching/) | [view](44.%20Wildcard%20Matching.cpp)
