@@ -26,7 +26,7 @@ public:
     }
 };
 
-// -----Approach 1: Tabulation ------------------------------------------------------------
+// -----Approach 2: Tabulation ------------------------------------------------------------
 
 /*
     Problem Link: https://leetcode.com/problems/house-robber/
@@ -55,7 +55,7 @@ public:
     }
 };
 
-// -----Approach 1: Space Optimization ------------------------------------------------------------
+// -----Approach 3: Space Optimization ------------------------------------------------------------
 
 /*
     Problem Link: https://leetcode.com/problems/house-robber/
