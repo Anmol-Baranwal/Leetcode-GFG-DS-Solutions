@@ -80,7 +80,9 @@ SNo | Name | Difficulty | Question | Solution |
 5 | Minimum Insertion Steps to Make a String Palindrome | Hard | [view](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [view](Strings/Leetcode/1312.%20Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp)
 6 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](Strings/Leetcode/1092.%20Shortest%20Common%20Supersequence.cpp)
 7 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](Strings/Leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
-21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Strings/Leetcode/72.%20Edit%20Distance.cpp)
+8 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Strings/Leetcode/72.%20Edit%20Distance.cpp)
+9 | Wildcard Matching | Hard | [view](https://leetcode.com/problems/wildcard-matching/) | [view](Strings/Leetcode/44.%20Wildcard%20Matching.cpp)
+23 | Distinct Subsequences | Hard | [view](https://leetcode.com/problems/distinct-subsequences/) | [view](Strings/Leetcode/115.%20Distinct%20Subsequences.cpp)
 
 <br>
 
@@ -139,6 +141,9 @@ SNo | Name | Difficulty | Question | Solution |
 19 | Shortest Common Supersequence | Hard | [view](https://leetcode.com/problems/shortest-common-supersequence/) | [view](Dynamic%20Programming/Leetcode/1092.%20Shortest%20Common%20Supersequence.cpp)
 20 | Delete Operation for Two Strings | Medium | [view](https://leetcode.com/problems/delete-operation-for-two-strings/) | [view](Dynamic%20Programming/Leetcode/583.%20Delete%20Operation%20for%20Two%20Strings.cpp)
 21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Dynamic%20Programming/Leetcode/72.%20Edit%20Distance.cpp)
+22 | Wildcard Matching | Hard | [view](https://leetcode.com/problems/wildcard-matching/) | [view](Dynamic%20Programming/Leetcode/44.%20Wildcard%20Matching.cpp)
+23 | Distinct Subsequences | Hard | [view](https://leetcode.com/problems/distinct-subsequences/) | [view](Dynamic%20Programming/Leetcode/115.%20Distinct%20Subsequences.cpp)
+
 <br>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
@@ -209,6 +214,7 @@ SNo | Name | Difficulty | Question | Solution |
 9 | Shortest Common Supersequence | Medium | [view](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | [view](Dynamic%20Programming/Geeksforgeeks/Shortest%20Common%20Supersequence.cpp)
 10 | Form a palindrome | Medium | [view](Dynamic%20Programming/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
 11 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Dynamic%20Programming/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
+12 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Dynamic%20Programming/Geeksforgeeks/Edit%20Distance.cpp)
 
 <br>
 
@@ -222,6 +228,7 @@ SNo | Name | Difficulty | Question | Solution |
 4 | Shortest Common Supersequence | Medium | [view](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence0322/1) | [view](Strings/Geeksforgeeks/Shortest%20Common%20Supersequence.cpp)
 5 | Form a palindrome | Medium | [view](Strings/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
 6 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Strings/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
+7 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Strings/Geeksforgeeks/Edit%20Distance.cpp)
 
 <br>
 
