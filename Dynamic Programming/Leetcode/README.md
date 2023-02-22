@@ -25,3 +25,4 @@ SNo | Name | Difficulty | Question | Solution |
 21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](72.%20Edit%20Distance.cpp)
 22 | Wildcard Matching | Hard | [view](https://leetcode.com/problems/wildcard-matching/) | [view](44.%20Wildcard%20Matching.cpp)
 23 | Distinct Subsequences | Hard | [view](https://leetcode.com/problems/distinct-subsequences/) | [view](115.%20Distinct%20Subsequences.cpp)
+24 | Best Time to Buy and Sell Stock II | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [view](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
