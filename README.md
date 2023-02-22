@@ -143,6 +143,7 @@ SNo | Name | Difficulty | Question | Solution |
 21 | Edit Distance | Hard | [view](https://leetcode.com/problems/edit-distance/) | [view](Dynamic%20Programming/Leetcode/72.%20Edit%20Distance.cpp)
 22 | Wildcard Matching | Hard | [view](https://leetcode.com/problems/wildcard-matching/) | [view](Dynamic%20Programming/Leetcode/44.%20Wildcard%20Matching.cpp)
 23 | Distinct Subsequences | Hard | [view](https://leetcode.com/problems/distinct-subsequences/) | [view](Dynamic%20Programming/Leetcode/115.%20Distinct%20Subsequences.cpp)
+24 | Best Time to Buy and Sell Stock II | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [view](/Dynamic%20Programming/Leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
 
 <br>
 
@@ -215,6 +216,7 @@ SNo | Name | Difficulty | Question | Solution |
 10 | Form a palindrome | Medium | [view](Dynamic%20Programming/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
 11 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Dynamic%20Programming/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 12 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Dynamic%20Programming/Geeksforgeeks/Edit%20Distance.cpp)
+13 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Dynamic%20Programming/Geeksforgeeks/Wildcard%20Pattern%20Matching.cpp)
 
 <br>
 
@@ -229,6 +231,7 @@ SNo | Name | Difficulty | Question | Solution |
 5 | Form a palindrome | Medium | [view](Strings/Geeksforgeeks/https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
 6 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Strings/Geeksforgeeks/Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 7 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Strings/Geeksforgeeks/Edit%20Distance.cpp)
+8 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Strings/Geeksforgeeks/Wildcard%20Pattern%20Matching.cpp)
 
 <br>
 
