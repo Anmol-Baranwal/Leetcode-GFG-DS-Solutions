@@ -9,3 +9,4 @@ SNo | Name | Difficulty | Question | Solution |
 5 | Form a palindrome | Medium | [view](https://practice.geeksforgeeks.org/problems/form-a-palindrome1455/1) | [view](Form%20a%20palindrome.cpp)
 6 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 7 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Edit%20Distance.cpp)
+8 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Wildcard%20Pattern%20Matching.cpp)
