@@ -145,7 +145,9 @@ SNo | Name | Difficulty | Question | Solution |
 23 | Distinct Subsequences | Hard | [view](https://leetcode.com/problems/distinct-subsequences/) | [view](Dynamic%20Programming/Leetcode/115.%20Distinct%20Subsequences.cpp)
 24 | Best Time to Buy and Sell Stock II | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [view](Dynamic%20Programming/Leetcode/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
 25 | Best Time to Buy and Sell Stock III | Hard | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | [view](Dynamic%20Programming/Leetcode/123.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.cpp)
-25 | Best Time to Buy and Sell Stock IV | Hard | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [view](Dynamic%20Programming/Leetcode/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.cpp)
+26 | Best Time to Buy and Sell Stock IV | Hard | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [view](Dynamic%20Programming/Leetcode/188.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.cpp)
+27 | Best Time to Buy and Sell Stock with Cooldown | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [view](Dynamic%20Programming/Leetcode/309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)
+28 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [view](Dynamic%20Programming/Leetcode/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
 
 <br>
 
