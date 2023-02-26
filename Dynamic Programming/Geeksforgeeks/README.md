@@ -15,3 +15,4 @@ SNo | Name | Difficulty | Question | Solution |
 11 | Minimum number of deletions and insertions | Easy | [view](https://practice.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1) | [view](Minimum%20number%20of%20deletions%20and%20insertions.cpp)
 12 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Edit%20Distance.cpp)
 13 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Wildcard%20Pattern%20Matching.cpp)
+14 | Longest Bitonic subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [view](Longest%20Bitonic%20subsequence.cpp)
