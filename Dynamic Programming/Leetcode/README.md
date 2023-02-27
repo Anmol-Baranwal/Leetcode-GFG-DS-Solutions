@@ -31,3 +31,4 @@ SNo | Name | Difficulty | Question | Solution |
 27 | Best Time to Buy and Sell Stock with Cooldown | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [view](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.cpp)
 28 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [view](714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
 29 | Longest Increasing Subsequence | Medium | [view](https://leetcode.com/problems/longest-increasing-subsequence/) | [view](300.%20Longest%20Increasing%20Subsequence.cpp)
+30 | Longest String Chain | Medium | [view](https://leetcode.com/problems/longest-string-chain/) | [view](1048.%20Longest%20String%20Chain.cpp)
