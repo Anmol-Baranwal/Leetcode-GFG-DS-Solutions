@@ -150,6 +150,7 @@ SNo | Name | Difficulty | Question | Solution |
 28 | Best Time to Buy and Sell Stock with Transaction Fee | Medium | [view](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [view](Dynamic%20Programming/Leetcode/714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)
 29 | Longest Increasing Subsequence | Medium | [view](https://leetcode.com/problems/longest-increasing-subsequence/) | [view](Dynamic%20Programming/Leetcode/300.%20Longest%20Increasing%20Subsequence.cpp)
 30 | Longest String Chain | Medium | [view](https://leetcode.com/problems/longest-string-chain/) | [view](Dynamic%20Programming/Leetcode/1048.%20Longest%20String%20Chain.cpp)
+31 | Burst Balloons | Hard | [view](https://leetcode.com/problems/burst-balloons/) | [view](Dynamic%20Programming/Leetcode/312.%20Burst%20Balloons.cpp)
 
 <br>
 
@@ -224,6 +225,7 @@ SNo | Name | Difficulty | Question | Solution |
 12 | Edit Distance | Medium | [view](https://practice.geeksforgeeks.org/problems/edit-distance3702/1) | [view](Dynamic%20Programming/Geeksforgeeks/Edit%20Distance.cpp)
 13 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Dynamic%20Programming/Geeksforgeeks/Wildcard%20Pattern%20Matching.cpp)
 14 | Longest Bitonic subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [view](Dynamic%20Programming/Geeksforgeeks/Longest%20Bitonic%20subsequence.cpp)
+15 | Burst Balloons | Hard | [view](https://practice.geeksforgeeks.org/problems/burst-balloons/1) | [view](Dynamic%20Programming/Geeksforgeeks/Burst%20Balloons.cpp)
 
 <br>
 
