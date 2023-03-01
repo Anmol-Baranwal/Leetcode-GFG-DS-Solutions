@@ -17,3 +17,4 @@ SNo | Name | Difficulty | Question | Solution |
 13 | Wildcard Pattern Matching | Medium | [view](https://practice.geeksforgeeks.org/problems/wildcard-pattern-matching/1) | [view](Wildcard%20Pattern%20Matching.cpp)
 14 | Longest Bitonic subsequence | Medium | [view](https://practice.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [view](Longest%20Bitonic%20subsequence.cpp)
 15 | Burst Balloons | Hard | [view](https://practice.geeksforgeeks.org/problems/burst-balloons/1) | [view](Burst%20Balloons.cpp)
+16 | Matrix Chain Multiplication | Hard | [view](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | [view](Matrix%20Chain%20Multiplication.cpp)
