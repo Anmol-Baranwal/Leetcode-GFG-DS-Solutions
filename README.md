@@ -151,6 +151,7 @@ SNo | Name | Difficulty | Question | Solution |
 29 | Longest Increasing Subsequence | Medium | [view](https://leetcode.com/problems/longest-increasing-subsequence/) | [view](Dynamic%20Programming/Leetcode/300.%20Longest%20Increasing%20Subsequence.cpp)
 30 | Longest String Chain | Medium | [view](https://leetcode.com/problems/longest-string-chain/) | [view](Dynamic%20Programming/Leetcode/1048.%20Longest%20String%20Chain.cpp)
 31 | Burst Balloons | Hard | [view](https://leetcode.com/problems/burst-balloons/) | [view](Dynamic%20Programming/Leetcode/312.%20Burst%20Balloons.cpp)
+31 | Min Cost Climbing Stairs | Easy | [view](https://leetcode.com/problems/min-cost-climbing-stairs/) | [view](Dynamic%20Programming/Leetcode/746.%20Min%20Cost%20Climbing%20Stairs.cpp)
 
 <br>
 
