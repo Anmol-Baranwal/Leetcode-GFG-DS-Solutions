@@ -34,3 +34,4 @@ SNo | Name | Difficulty | Question | Solution |
 30 | Longest String Chain | Medium | [view](https://leetcode.com/problems/longest-string-chain/) | [view](1048.%20Longest%20String%20Chain.cpp)
 31 | Burst Balloons | Hard | [view](https://leetcode.com/problems/burst-balloons/) | [view](312.%20Burst%20Balloons.cpp)
 31 | Min Cost Climbing Stairs | Easy | [view](https://leetcode.com/problems/min-cost-climbing-stairs/) | [view](746.%20Min%20Cost%20Climbing%20Stairs.cpp)
+32 | Number of Longest Increasing Subsequence | Medium | [view](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [view](673.%20Number%20of%20Longest%20Increasing%20Subsequence.cpp)
