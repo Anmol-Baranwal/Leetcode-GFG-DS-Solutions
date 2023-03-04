@@ -20,3 +20,4 @@ SNo | Name | Difficulty | Question | Solution |
 16 | Matrix Chain Multiplication | Hard | [view](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | [view](Matrix%20Chain%20Multiplication.cpp)
 17 | Boolean Parenthesization | Hard | [view](https://practice.geeksforgeeks.org/problems/boolean-parenthesization5610/1) | [view](Boolean%20Parenthesization.cpp)
 18 | Palindromic Partitioning | Hard | [view](https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1) | [view](Palindromic%20Partitioning.cpp)
+19 | Partition Array for Maximum Sum | Medium | [view](https://practice.geeksforgeeks.org/problems/partition-array-for-maximum-sum/1) | [view](Partition%20Array%20for%20Maximum%20Sum.cpp)
