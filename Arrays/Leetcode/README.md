@@ -28,4 +28,4 @@ SNo | Name | Difficulty | Question | Solution |
 24 | Palindrome Number | Easy | [view](https://leetcode.com/problems/palindrome-number/) | [view](9.%20Palindrome%20Number.cpp)
 25 | Ugly Number | Easy | [view](https://leetcode.com/problems/ugly-number/) | [view](263.%20Ugly%20Number.cpp)
 26 | Ugly Number II | Medium | [view](https://leetcode.com/problems/ugly-number-ii/) | [view](264.%20Ugly%20Number%20II.cpp)
-
+27 | Maximum Length of Pair Chain | Medium | [view](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [view](646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)
