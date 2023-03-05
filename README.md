@@ -155,6 +155,7 @@ SNo | Name | Difficulty | Question | Solution |
 31 | Min Cost Climbing Stairs | Easy | [view](https://leetcode.com/problems/min-cost-climbing-stairs/) | [view](Dynamic%20Programming/Leetcode/746.%20Min%20Cost%20Climbing%20Stairs.cpp)
 32 | Number of Longest Increasing Subsequence | Medium | [view](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [view](Dynamic%20Programming/Leetcode/673.%20Number%20of%20Longest%20Increasing%20Subsequence.cpp)
 33 | Minimum Cost to Cut a Stick | Hard | [view](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [view](Dynamic%20Programming/Leetcode/1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.cpp)
+34 | Partition Array for Maximum Sum | Medium | [view](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [view](Dynamic%20Programming/Leetcode/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)
 
 <br>
 
