@@ -38,3 +38,4 @@ SNo | Name | Difficulty | Question | Solution |
 33 | Minimum Cost to Cut a Stick | Hard | [view](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [view](1547.%20Minimum%20Cost%20to%20Cut%20a%20Stick.cpp)
 34 | Partition Array for Maximum Sum | Medium | [view](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [view](1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)
 35 | Largest Divisible Subset | Medium | [view](https://leetcode.com/problems/largest-divisible-subset/) | [view](368.%20Largest%20Divisible%20Subset.cpp)
+36 | Palindrome Partitioning II | Hard | [view](https://leetcode.com/problems/palindrome-partitioning-ii/) | [view](132.%20Palindrome%20Partitioning%20II.cpp)
