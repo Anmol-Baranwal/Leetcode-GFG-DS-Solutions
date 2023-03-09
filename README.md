@@ -158,6 +158,7 @@ SNo | Name | Difficulty | Question | Solution |
 34 | Partition Array for Maximum Sum | Medium | [view](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [view](Dynamic%20Programming/Leetcode/1043.%20Partition%20Array%20for%20Maximum%20Sum.cpp)
 35 | Largest Divisible Subset | Medium | [view](https://leetcode.com/problems/largest-divisible-subset/) | [view](Dynamic%20Programming/Leetcode/368.%20Largest%20Divisible%20Subset.cpp)
 36 | Palindrome Partitioning II | Hard | [view](https://leetcode.com/problems/palindrome-partitioning-ii/) | [view](Dynamic%20Programming/Leetcode/132.%20Palindrome%20Partitioning%20II.cpp)
+37 | Count Square Submatrices with All Ones | Medium | [view](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [view](Dynamic%20Programming/Leetcode/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp)
 
 <br>
 
