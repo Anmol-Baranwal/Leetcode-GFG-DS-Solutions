@@ -67,6 +67,7 @@ SNo | Name | Difficulty | Question | Solution |
 25 | Ugly Number | Easy | [view](https://leetcode.com/problems/ugly-number/) | [view](Arrays/Leetcode/263.%20Ugly%20Number.cpp)
 26 | Ugly Number II | Medium | [view](https://leetcode.com/problems/ugly-number-ii/) | [view](Arrays/Leetcode/264.%20Ugly%20Number%20II.cpp)
 27 | Maximum Length of Pair Chain | Medium | [view](https://leetcode.com/problems/maximum-length-of-pair-chain/) | [view](Arrays/Leetcode/646.%20Maximum%20Length%20of%20Pair%20Chain.cpp)
+28 | Happy Number | Easy | [view](https://leetcode.com/problems/happy-number/) | [view](202.%20Happy%20Number.cpp)
 
 <br>
 
